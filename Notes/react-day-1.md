@@ -142,3 +142,7 @@ Branching in Git
 
 Create a Github account, create a couple test repos, and play around with different termainal commands
 
+### Links
+http://www.react.express/
+https://courses.wesbos.com/account
+
